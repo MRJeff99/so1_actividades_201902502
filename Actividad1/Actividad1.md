@@ -22,7 +22,7 @@ El kernel monolítico es el tipo de kernel más simple y tradicional. Es un úni
 El kernel micronúcleo es un tipo de kernel más moderno que separa el código del sistema operativo en dos capas: el núcleo y las extensiones. El núcleo contiene solo el código más esencial, como la gestión de procesos y memoria. Las extensiones son módulos que pueden cargarse y descargarse dinámicamente, lo que hace que el kernel sea más flexible y escalable.
 
 
-![Image of Kernel micronúcleo](/Src/T1/2.png)
+![Image of Kernel micronúcleo](./Src/T1/2.png)
 
 **Ventajas:**
 
@@ -39,7 +39,7 @@ El kernel micronúcleo es un tipo de kernel más moderno que separa el código d
 El kernel híbrido es un tipo de kernel que combina las características del kernel monolítico y micronúcleo. El núcleo contiene un conjunto básico de funciones, como la gestión de procesos y memoria. Las extensiones pueden agregar funciones adicionales, como el soporte para dispositivos de hardware o sistemas de archivos.
 
 
-![Image of Kernel híbrido](/Src/T1/3.png)
+![Image of Kernel híbrido](./Src/T1/3.png)
 
 **Ventajas:**
 
@@ -58,7 +58,7 @@ Los modos de usuario y kernel son dos estados en los que puede ejecutarse un pro
 En el modo de usuario, los programas tienen acceso limitado a los recursos del sistema. Solo pueden acceder a los recursos que les han sido asignados por el kernel. Esto ayuda a proteger el sistema operativo de los programas malicioso.
 
 
-![Image of Kernel híbrido](/Src/T1/4.png)
+![Image of Kernel híbrido](./Src/T1/4.png)
 
 **Ventajas:**
 
