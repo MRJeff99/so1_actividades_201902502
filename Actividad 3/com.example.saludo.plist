@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.example.saludo</string>
+    <key>Program</key>
+    <string>/Users/jeffmolina/Documents/GitHub/Actividades_Sopes1/Actividad 3/saludo_script.sh</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/tmp/saludo.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/saludo_error.log</string>
+</dict>
+</plist>
